@@ -1,0 +1,5 @@
+package com.skailas.jobservice.enums;
+
+public enum AdvertStatus {
+    OPEN, CLOSED, CANCELLED, ASSIGNED, REVIEWED
+}
